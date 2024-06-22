@@ -1,0 +1,4 @@
+from .entry import ghutilscli
+
+if __name__ == '__main__':
+    ghutilscli()

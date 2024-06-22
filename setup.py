@@ -67,9 +67,9 @@ setup(
         'Programming Language :: Python :: 3.11',
         'Programming Language :: Python :: 3.12',
     ],
-    # entry_points={
-    #     'console_scripts': [
-    #         'ghutils=ghutils.entry:ghutilscli'
-    #     ]
-    # },
+    entry_points={
+        'console_scripts': [
+            'ghutils=ghutils.entry:ghutilscli'
+        ]
+    },
 )

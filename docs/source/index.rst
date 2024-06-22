@@ -28,6 +28,7 @@ Overview
     :caption: API Documentation
 
     api_doc/config/index
+    api_doc/entry/index
 
 .. toctree::
     :maxdepth: 2

@@ -17,8 +17,6 @@ RANGE_DIR      ?= .
 RANGE_TEST_DIR := ${TEST_DIR}/${RANGE_DIR}
 RANGE_SRC_DIR  := ${SRC_DIR}/${RANGE_DIR}
 
-GAMES ?= arknights fgo genshin girlsfrontline azurlane
-
 COV_TYPES ?= xml term-missing
 
 package:
